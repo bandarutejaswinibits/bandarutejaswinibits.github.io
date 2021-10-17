@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Bandaru Tejaswini
 
-You can use the [editor on GitHub](https://github.com/bandarutejaswinibits/bandarutejaswinibits.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently working as an Associate Consultant in Capgemini Technology Services Private Limited, Bangalore. I am a second year student of M.Tech, Software Engineering from BITS Pilani Work Integrated Learning Programmes. I am a certified Salesforce Commerce Cloud(SFCC) Digital Developer, working on different e-commerce projects for 1.5 years. I am a self-motivated, hard-working and self-learnt person. I am always open to help people in clearing their doubts and learning new things from them.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hobbies
+1. Learning new full-stack technologies.
+2. Dancing
+3. Listening to music.
+4. Playing Badminton.
 
-### Markdown
+### Technical Expertise
+1. C
+2. C++
+3. Java
+4. JavaScript
+5. Angular6
+6. Ionic
+7. Python
+8. Salesforce Commerce Cloud (SiteGenesis and SFRA)
+9. HTML5
+10. CSS3
+11. jQuery
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
+- M.Tech, Software Engineering, BITS Pilani Work Integrated Learning Programmes (2020-2022)
+- B.Tech, Information Technology, SRM Institute of Science and Technology, Chennai, Tamilnadu (2015-2019).
+- High School, Vignan Vidyalayam, Thimmapuram, Visakhapatnam, Andhra Pradesh (2013-2015).
+- Middle School, Delhi Public School, Bhilai, Chhatisgarh (2011-2013).
 
-```markdown
-Syntax highlighted code block
+### Projects
+1. **Capgemini Technology Services Private Limited, Bangalore**
+    - Bug-fixes and feature development in e-commerce projects using SiteGenesis and SFRA.
+2. **SRM Institute of Science and Technology, Chennai**
+    - Water-quality prediction with time-series data of various rivers in India, using recurrent neural networks.
+3. **Sails Software Solutions Private Limited, Visakhapatnam**
+    - Stock Data App using ASP.Net MVC, Google Finance API, HTML5, CSS3, jQuery and Chrome Extensions API.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bandarutejaswinibits/bandarutejaswinibits.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can reach me on my Linked profile [here](https://www.linkedin.com/in/bandaru-tejaswini-2b6936134/) for any queries or for any assistance.
